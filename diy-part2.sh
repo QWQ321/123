@@ -15,4 +15,4 @@
 git clone https://github.com/EOYOHOO/UA2F.git package/UA2F
 git clone https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid
 git clone https://github.com/CHN-beta/xmurp-ua.git package/xmurp-ua
-git clone https://github.com/McMCCRU/rtl8188gu.git package/rtl8188gu
+
